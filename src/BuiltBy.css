@@ -1,0 +1,39 @@
+.container1{
+            height: 17vh;
+            width: 45%;
+            /* background-color: #9ac1fd; */
+          position: relative;
+            left: 28%;  
+            border: 1px solid #79a7ed;
+            border-radius: 1vh;
+            /* box-shadow: 0px 0px 10px 2px white; */
+            transition: 1s;
+}
+
+.container1:hover{
+           
+        
+            box-shadow: 0px 0px 10px 2px white;
+            transition: 1s;
+}
+
+.whole2{
+  margin-top: 2%;
+}
+
+.whole{
+  /* height: 17vh; */
+  /* width: 100%; */
+   background-color: #9ac1fd;
+}
+
+.container1 h1{
+            text-align: center;
+            color: black;
+}
+
+.container1 p{
+ justify-content: center;
+ text-align: center;
+ font-size: 1.1rem;
+}

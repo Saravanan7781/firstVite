@@ -1,0 +1,8 @@
+
+.TheMain{
+    background-color: #9ac1fd;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
