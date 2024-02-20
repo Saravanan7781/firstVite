@@ -1,6 +1,7 @@
 import React from 'react';
 import './Projects.css';
 import img1 from "./assets/image1.png"
+import img2 from './assets/image2.jpeg'
 
 function Projects() {
   // const img1 = ;
@@ -32,7 +33,7 @@ function Projects() {
       </div>
       <div className=' Image project1'>
         
-            <img src={ img1} height={`80%`} width={`77%`}></img>
+            <img src={ img2} height={`80%`} width={`87%`}></img>
       </div>
       
       </div>
